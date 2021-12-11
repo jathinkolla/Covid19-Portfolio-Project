@@ -169,7 +169,4 @@ Group by Location, Population, date
 order by PercentPopulationInfected desc
 
 
---Output for the first four queries
 
-
-![0001](https://user-images.githubusercontent.com/52307622/145666361-e8ba0c80-0260-4cea-bc36-89f8ee0997b5.jpg)
